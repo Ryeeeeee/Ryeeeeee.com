@@ -3,6 +3,9 @@ date: 2016-01-01 01:20:40
 tags: 
 ---
 ![MarkdownX](http://upload-images.jianshu.io/upload_images/228805-3c41aa3c07154bde.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+<!-- more -->
+
 2016年已经到来，看到朋友圈，微博被各种新年祝福的展望刷屏。视乎人们总是习惯于在新年伊始的时候做新年展望，却很少做往年的年度总结。但是想想自己的2015，还是觉得有必要做个总结。毕竟，过去的2015有许多的出人意料，也有许多的不尽如人意，自己也成长了很多。
 
 ## 大事记
