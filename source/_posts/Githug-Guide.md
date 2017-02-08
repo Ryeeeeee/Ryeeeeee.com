@@ -1,9 +1,8 @@
-title: '「Githug」Git-游戏通关流程'
+title: 「Githug」Git 游戏通关流程
 date: 2016-01-04 01:37:40
-tags: Android
+tags: Git
 ---
 
-## Githug 
 他喵的这是个啥！？难道不是 GitHub 拼错了么，和 Git 什么关系？ 和游戏又有什么关系？
 
 其实，他的元身在这里：https://github.com/Gazler/githug ，这个命令行工具被设计来练习你的 Git 技能，它把平常可能遇到的一些场景都实例化，变成一个一个的关卡，一共有 55 个关卡，所以将他形象的形容为 Git 游戏。
