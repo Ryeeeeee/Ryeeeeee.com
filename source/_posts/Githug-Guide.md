@@ -1,6 +1,6 @@
-title: '「Githug」Git-游戏通关流程'
+title: 「Githug」Git 游戏通关流程
 date: 2016-01-04 01:37:40
-tags: Android
+tags: Git
 ---
 
 他喵的这是个啥！？难道不是 GitHub 拼错了么，和 Git 什么关系？ 和游戏又有什么关系？
